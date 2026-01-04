@@ -19,14 +19,14 @@ jobs:
       - uses: Pranesh-2005/github-readme-stats-fast-action@2644d68957afc6a480911edb2d876f09084c15e8
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true&hide_title=true
           path: .cache/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: Pranesh-2005/github-readme-stats-fast-action@2644d68957afc6a480911edb2d876f09084c15e8
         with:
           card: streak
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true
           path: .cache/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
