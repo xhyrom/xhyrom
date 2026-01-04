@@ -11,10 +11,10 @@ I've also worked with Linux, [Docker](https://docker.com), [MySQL](https://mysql
 <table>
     <tr>
         <td style="padding=0;width=50%;">
-            <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api?username=xhyrom&title_color=FB8C00&text_color=ffffff&bg_color=151515&hide_border=true&hide_title=true&show_icons=true&count_private=true" alt="basic info" />
+            <img src="https://github.com/xhyrom/xhyrom/blob/main/.cache/stats.svg">
         </td>
         <td style="padding=0;width=50%;">
-            <img align="center" style="padding=0;" src="https://github-readme-streak-stats.herokuapp.com/?user=xhyrom&theme=dark&hide_border=true" alt="streak" />
+            <img src="https://github.com/xhyrom/xhyrom/blob/main/.cache/streak.svg">
         </td>
     </tr>
 </table>
