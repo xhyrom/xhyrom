@@ -7,7 +7,29 @@ on:
     branches:
       - "main"
 
+permissions:
+  contents: write
+
 jobs:
+  stats-fast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: Pranesh-2005/github-readme-stats-fast-action@2644d68957afc6a480911edb2d876f09084c15e8
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: .cache/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: Pranesh-2005/github-readme-stats-fast-action@2644d68957afc6a480911edb2d876f09084c15e8
+        with:
+          card: streak
+          options: username=${{ github.repository_owner }}&show_icons=true
+          path: .cache/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
   github-metrics:
     runs-on: ubuntu-latest
     steps:
