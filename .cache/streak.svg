@@ -32,22 +32,22 @@
         }
         .header-fire { font: 600 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: orange; filter: url(#glow); animation: glowPulse 2s infinite; }
         .header-text { font: 600 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: black; }
-        .stat { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; text-anchor: middle; animation: fadein 0.6s forwards; }
-        .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; text-anchor: middle; opacity: 0; animation: fadein 0.8s forwards; }
-        .range { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58; text-anchor: middle; opacity: 0; animation: fadein 1s forwards; }
+        .stat { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C3D1D9; text-anchor: middle; animation: fadein 0.6s forwards; }
+        .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C3D1D9; text-anchor: middle; opacity: 0; animation: fadein 0.8s forwards; }
+        .range { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C3D1D9; text-anchor: middle; opacity: 0; animation: fadein 1s forwards; }
         .circle-label { font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; fill: orange; text-anchor: middle; dominant-baseline: middle; filter: url(#glow); animation: currstreak 0.6s forwards; }
         .ring { stroke: orange; filter: url(#glow); animation: glowPulse 2s infinite; }
-        .divider { stroke: #434d58; stroke-opacity: 0.4; stroke-width: 1; }
+        .divider { stroke: #C3D1D9; stroke-opacity: 0.4; stroke-width: 1; }
       </style>
       
-      <rect width="100%" height="100%" fill="#fffefe" stroke="#e4e2e2" rx="4.5"/>
+      <rect width="100%" height="100%" fill="#0D1117" stroke="none" rx="4.5"/>
       
       <!-- Divider lines -->
       <line x1="171" y1="30" x2="171" y2="165" class="divider" />
       <line x1="324" y1="30" x2="324" y2="165" class="divider" />
 
       <!-- Total Contributions -->
-      <text x="95" y="85" class="stat">38,347</text>
+      <text x="95" y="85" class="stat">38,348</text>
       <text x="95" y="115" class="label">Total Contributions</text>
       <text x="95" y="135" class="range">Oct 15, 2019 - Present</text>
 
