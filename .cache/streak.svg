@@ -47,7 +47,7 @@
       <line x1="324" y1="30" x2="324" y2="165" class="divider" />
 
       <!-- Total Contributions -->
-      <text x="95" y="85" class="stat">38,407</text>
+      <text x="95" y="85" class="stat">38,419</text>
       <text x="95" y="115" class="label">Total Contributions</text>
       <text x="95" y="135" class="range">Oct 15, 2019 - Present</text>
 
