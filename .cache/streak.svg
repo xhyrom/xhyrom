@@ -47,7 +47,7 @@
       <line x1="324" y1="30" x2="324" y2="165" class="divider" />
 
       <!-- Total Contributions -->
-      <text x="95" y="85" class="stat">38,490</text>
+      <text x="95" y="85" class="stat">38,491</text>
       <text x="95" y="115" class="label">Total Contributions</text>
       <text x="95" y="135" class="range">Oct 15, 2019 - Present</text>
 
@@ -69,8 +69,8 @@
       <text x="247.5" y="164" class="range"></text>
 
       <!-- Longest Streak -->
-      <text x="400" y="85" class="stat">1455</text>
+      <text x="400" y="85" class="stat">1456</text>
       <text x="400" y="115" class="label">Longest Streak</text>
-      <text x="400" y="135" class="range">Feb 5 - Jan 29</text>
+      <text x="400" y="135" class="range">Feb 5 - Jan 30</text>
     </svg>
   
