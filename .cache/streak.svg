@@ -64,9 +64,9 @@
       </g>
 
       <!-- Current Streak number -->
-      <text x="247.5" y="84" class="circle-label">1</text>
+      <text x="247.5" y="84" class="circle-label">0</text>
       <text x="247.5" y="144" class="label"  style="fill: orange">Current Streak</text>
-      <text x="247.5" y="164" class="range">Feb 5</text>
+      <text x="247.5" y="164" class="range"></text>
 
       <!-- Longest Streak -->
       <text x="400" y="85" class="stat">1460</text>
