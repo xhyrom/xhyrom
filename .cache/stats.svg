@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jozef Steinh&#252;bl's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 623, Total Commits in 2026 : 886, Total PRs: 431, Total Issues: 286, Contributed to (last year): 27</desc>
+        <desc id="descId">Total Stars Earned: 617, Total Commits in 2026 : 890, Total PRs: 432, Total Issues: 286, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 10.63494297309288;
+        stroke-dashoffset: 10.649125343278348;
       }
     }
   
@@ -148,7 +148,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >623</text>
+      >617</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -163,7 +163,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >886</text>
+      >890</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -178,7 +178,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >431</text>
+      >432</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -208,7 +208,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >27</text>
+      >30</text>
     </g>
   </g>
     </svg>
